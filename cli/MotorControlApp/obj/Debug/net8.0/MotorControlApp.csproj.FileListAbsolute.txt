@@ -1,0 +1,14 @@
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/bin/Debug/net8.0/MotorControlApp
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/bin/Debug/net8.0/MotorControlApp.deps.json
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/bin/Debug/net8.0/MotorControlApp.runtimeconfig.json
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/bin/Debug/net8.0/MotorControlApp.dll
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/bin/Debug/net8.0/MotorControlApp.pdb
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.AssemblyInfoInputs.cache
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.AssemblyInfo.cs
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.csproj.CoreCompileInputs.cache
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.dll
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/refint/MotorControlApp.dll
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.pdb
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/MotorControlApp.genruntimeconfig.cache
+/Users/danielulloa/Escuela/2024-1/Simulacion/control-de-motor/cli/MotorControlApp/obj/Debug/net8.0/ref/MotorControlApp.dll
